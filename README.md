@@ -10,4 +10,4 @@ Today-I-Learned, 하루하루 공부한 것을 적는 페이지입니다!
 
 ## CS(Computer-Science)
 
-##English
+## English
